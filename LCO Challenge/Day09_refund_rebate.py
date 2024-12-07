@@ -1,0 +1,10 @@
+count_of_sweater=3
+count_of_bracelets=2
+count_of_comp_game=1
+sweater=68
+bracelets=43
+comp_game=75
+rebate=10
+refundandrebate=(bracelets/2)+rebate
+total_amount=sweater+bracelets+comp_game-refundandrebate
+print(total_amount)
